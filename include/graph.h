@@ -1,3 +1,4 @@
+#pragma once
 #include "Interface.h"
 
 class Graph:InterfaceGraph
