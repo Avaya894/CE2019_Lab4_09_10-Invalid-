@@ -1,4 +1,4 @@
-#include "AdjacencyMatrix.h"
+#include "..\include\AdjacencyMatrix.h"
 
 int main()
 {
